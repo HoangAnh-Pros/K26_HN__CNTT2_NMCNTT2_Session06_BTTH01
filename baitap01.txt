@@ -1,0 +1,8 @@
+*Phần 1:Phân tích
+-Lỗi sai 1:
++Bạn đang bị bug file đã tồn tại do bạn đã tạo từ trước.
+-Lỗi sai 2:
++Bạn đang đặt tên không theo bất kì tiêu chuẩn nào làm khó nhận dạng
++Bạn không dùng dấu ngoặc kép sau lệnh cd nên không thể nhận diện folder
+*Phần 2:
+Chuỗi lệnh viết để tối ưu là: mkdir smart_farm_project
